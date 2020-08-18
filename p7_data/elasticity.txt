@@ -1,0 +1,38 @@
+Coefficients of intergenerational elasticity between parents’ and
+children’s income
+
+
+                          | Base case  | Optimistic     | Pessimistic
+                          |            | (high mobility)| (low mobility)
+---------------------------------------------------------------------------
+Nordic European countries |    0.2     |      0.15      |    0.3
+and Canada                |            |                |
+---------------------------------------------------------------------------
+Europe (except nordic     |    0.4     |      0.3       |    0.5
+countries)                |            |                |
+---------------------------------------------------------------------------
+Australia/New Zealand/USA |    0.4     |      0.3       |    0.5
+---------------------------------------------------------------------------
+Asia                      |    0.5     |      0.4       |    0.6
+---------------------------------------------------------------------------
+Latin America/Africa      |    0.66    |      0.5       |    0.9
+---------------------------------------------------------------------------
+
+
+Extrapolations from these sources :
+
+Lam, David and Robert Schoeni (1993), “Effects of family background on
+earnings and returns to schooling: Evidence from Brazil”, Journal of Political Economy,
+vol. 110, pp. 710-740.
+
+Grawe, Nathan (2001), “Intergenerational mobility in the US and abroad:
+Quantile and mean regression me asures”, Ph.D. Thesis, Department of Economics,
+University of Chicago.
+
+Ferreira, Sergio Guimaraes and Fernando A. Veloso (2006), “Intergenerational
+mobility of wages in Brazil”, Brazilian Review of Econometrics, vol. 26., No. 2
+(November), pp. 181-211.
+
+Ng, Irene, Xiaoyi Shen and Kong Weng Ho (2008), “Intergenerational income
+mobility in Singapore and the United States, Nanyang Technological University, School
+of Humanities and Social Sciences, Economic Growth Centre Working paper 0803.
