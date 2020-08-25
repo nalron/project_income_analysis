@@ -3,7 +3,6 @@
 Projet pour une banque présente dans plusieurs pays, l'objectif est de cibler les prospects les plus susceptibles d'avoir, plus tard dans leur vie, de hauts revenus.
 
 ![Distri conditionnelle](p7_graphic/distri_cond_faible_mobilite.jpg)
-![QQPlot](p7_graphic/qqplot_histo_residus_last_model.jpg)
 
 ## Préambule
 Pour ce projet, les données ont été manipulées en Python. Analyse de statistique descriptive (avec des représentations graphiques). Modélisations de type ANOVA ou régression linéaire.
